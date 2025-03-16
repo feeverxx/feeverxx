@@ -2,4 +2,8 @@
 
 Hi, I'm Furkan. It's been a year since I stepped into the software world. I've been busy with front-end development. I'll be sharing the content I designed on this github page.
 
-![image](https://github.com/user-attachments/assets/d257c530-215d-4d70-8f13-52b611eee7c1) ![image](https://github.com/user-attachments/assets/e1bb9af4-b2dc-45a8-bacd-8c8f8f07f0fc) ![image](https://github.com/user-attachments/assets/10886172-4413-4b4c-b8ac-2239290e61ee) ![image](https://github.com/user-attachments/assets/11ad23e5-277c-4a15-886d-234f4f4ebf0d)
+![image](https://github.com/user-attachments/assets/dabeba0b-0a45-4172-9a9f-369bba16bd41) ![image](https://github.com/user-attachments/assets/316937f7-c8ad-4cc9-b011-0bb6901140fc) ![image](https://github.com/user-attachments/assets/7ba4624f-89d4-485e-8f46-1987a7f2e011) ![image](https://github.com/user-attachments/assets/2d8bf32b-c578-4b4c-8943-d5e37bc8bce7)
+
+
+
+
