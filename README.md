@@ -10,4 +10,3 @@ Hi! It's been a year since I stepped into the software world. I've been busy wit
 As Gameland Community, we provide services to players with multiplayer servers. You can donate to the growth and development of this community via the link below. Each donation is allocated to the hosting and advertising budgets of the project.
 
 https://donate.bynogame.com/gamelandcommunity
-https://discord.gg/Fh9DnpBM - Project Zomboid Multiplayer
