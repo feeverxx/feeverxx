@@ -18,9 +18,4 @@ As Velmor Community, we provide services to players with multiplayer servers. Yo
 
 https://donate.bynogame.com/velmorcommunity
 
-
-# VELMOR.COM.TR
-
-I will briefly tell you about the Velmor project. Velmor Community is a community of gamers founded by me. Velmor's web services section includes a website project that I have developed in order to improve myself. The aim of this project is to follow a development journey of the site from top to bottom with various tools and programming languages, starting with HTML, CSS and Javascript.
-
 https://velmor.com.tr
