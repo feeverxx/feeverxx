@@ -24,5 +24,5 @@ Merhaba! Yazılım alanına adım attığımdan beri bir iki yıl geçti. Front-
 - Ve tüm bunların yanı sıra sıfırdan geliştirmeye çalıştığım bir oyun projesi üzerinde çalışıyorum.
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feeverxx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feeverxx&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feeverxx&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feeverxx&layout=compact) 
 
