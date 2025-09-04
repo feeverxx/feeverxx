@@ -1,4 +1,4 @@
-### Hi! I'am Feverx 👋
+# Merhaba! Ben Feverx 👋
 
 Hi! It's been a year since I stepped into the software world. I've been busy with front-end development. I'll be sharing the content I designed on this github page.
 
