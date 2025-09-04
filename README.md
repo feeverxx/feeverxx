@@ -23,3 +23,6 @@ Merhaba! Yazılım alanına adım attığımdan beri bir iki yıl geçti. Front-
 - Son zamanlarda Full Stack Developer olmak için eğitimime devam ediyorum.
 - Ve tüm bunların yanı sıra sıfırdan geliştirmeye çalıştığım bir oyun projesi üzerinde çalışıyorum.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feeverxx)](https://github.com/feeverxx/github-readme-stats)
+
