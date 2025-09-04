@@ -12,7 +12,9 @@ Front-End Developer olarak üç yıldır çalışıyorum. Hem kendimi geliştiri
 
 
 # Tools:
-![image](https://github.com/user-attachments/assets/3d1e42be-6f0d-42df-9a94-49f944dd7c9e)
+![image](https://github.com/user-attachments/assets/3d1e42be-6f0d-42df-9a94-49f944dd7c9e) <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/c025424b-12b4-4f78-a1c3-e8eff209286c" /> <img width="73" height="28" alt="image" src="https://github.com/user-attachments/assets/cd287bca-efe4-452f-9bdd-b52286f4a383" />
+
+
 
 
 
