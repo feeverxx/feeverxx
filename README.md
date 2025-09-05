@@ -22,7 +22,7 @@ Full Stack Developer olarak üç yıldır çalışıyorum. Hem kendimi geliştir
 
 - Ben web siteleri üzerinde çalışıyorum.
 - Çeşitli projeler için kullanıcı arayüzleri geliştirmek üzerine çalışıyorum.
-- 2025 yılı içerisinde ben ve ekibimin başlattığı oyun sunucuları geliştiriyoruz.
+- 2025 yılı içerisinde ben ve ekibimin başlattığı birkaç oyun sunucusu geliştiriyoruz.
 - Şu sıralar bir yapay zeka projesi üzerinde çalışıyorum.
 
 
