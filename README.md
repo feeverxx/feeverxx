@@ -1,6 +1,6 @@
-# Merhaba! Ben Feverx 👋
+# Hello! I'm Feverx👋
 
-Full Stack Developer olarak üç yıldır çalışıyorum. Hem kendimi geliştiriyor hem de merak ettiğim bu dünyada geziniyorum. Sende yaptığım içeriklere github profilim üzerinden takip edebilirsin.
+I've been working as a Full Stack Developer for three years. I'm both improving myself and exploring this world of curiosity. You can follow my content on my GitHub profile.
 
 # Languages:
 ![image](https://github.com/user-attachments/assets/ea45d1ac-12bd-45ea-a73d-999519688d26) ![image](https://github.com/user-attachments/assets/ab07b09e-b09b-4bae-98da-6bc55834426c) ![image](https://github.com/user-attachments/assets/bff59352-17d1-4a96-bedb-ebe68c134498) ![image](https://github.com/user-attachments/assets/bdce515c-9839-4770-a493-3e9adb136325) ![image](https://github.com/user-attachments/assets/c6d23345-a05a-4f74-a7f6-ba537d4d2bff) ![image](https://github.com/user-attachments/assets/129587a8-c81e-4bf0-a17b-709d9efe31fe) ![image](https://github.com/user-attachments/assets/7df5af42-d604-430b-ac4c-db1fe7cafbf2) ![image](https://github.com/user-attachments/assets/f2a3ac3b-d1cf-4e95-bf71-dc891a9710e2) ![image](https://github.com/user-attachments/assets/728bfc32-c03e-4a8f-9178-b939f24c586e) ![image](https://github.com/user-attachments/assets/3b74737d-5dce-4973-9a42-5860df05052a) ![image](https://github.com/user-attachments/assets/193f64b7-911a-4ca1-9edc-4768046ed8fa) ![image](https://github.com/user-attachments/assets/2a8d2df3-ff2c-4131-9907-668e5a28aeec)
@@ -18,12 +18,12 @@ Full Stack Developer olarak üç yıldır çalışıyorum. Hem kendimi geliştir
 
 
 
-# Ne tür içerikler üretiyorum?
+# What kind of content do I create?
 
-- Ben web siteleri üzerinde çalışıyorum.
-- Çeşitli projeler için kullanıcı arayüzleri geliştirmek üzerine çalışıyorum.
-- 2025 yılı içerisinde ben ve ekibimin başlattığı birkaç oyun sunucusu geliştiriyoruz.
-- Şu sıralar bir yapay zeka projesi üzerinde çalışıyorum.
+- I work on websites.
+- I develop user interfaces for various projects.
+- My team and I are developing several game servers that we will launch in 2025.
+- I'm currently working on an artificial intelligence project.
 
 
 
