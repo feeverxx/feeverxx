@@ -26,4 +26,17 @@ I've been working as a Full Stack Developer for three years. I'm both improving 
 - I'm currently working on an artificial intelligence project.
 
 
+# My projects:
+
+### Game Server Projects: 
+- AFTER Universe - coming soon 09/2025 [Developer, Founder]
+- INREAL:V - alt:V MUltiplayer; coming soon [Founder]
+- Dystopia Roleplay - [Founder, Developer] (It was terminated and continued with the AFTER project.)
+
+### Community Projects:
+- Velmor Community - [Community Founder, Developer] (Ended)
+
+
+
+
 
