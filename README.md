@@ -25,6 +25,5 @@ Front-End Developer olarak üç yıldır çalışıyorum. Hem kendimi geliştiri
 - Son zamanlarda Full Stack Developer olmak için eğitimime devam ediyorum.
 - Ve tüm bunların yanı sıra sıfırdan geliştirmeye çalıştığım bir oyun projesi üzerinde çalışıyorum.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feeverxx&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feeverxx&layout=compact&theme=dark) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feeverxx&layout=compact) 
 
