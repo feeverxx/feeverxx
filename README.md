@@ -37,6 +37,8 @@ I've been working as a Full Stack Developer for three years. I'm both improving 
 - Velmor Community - [Community Founder, Developer] (Ended)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feeverxx&layout=donut-vertical)](https://github.com/feeverxx/github-readme-stats&theme=transparent)
+
 
 
 
